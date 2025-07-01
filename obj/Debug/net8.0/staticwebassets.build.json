@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Cs4lNCk2M/LDtX5ahwbOtbRYFlpW9loXxixHQ9zip0g=",
+  "Source": "Atividade",
+  "BasePath": "_content/Atividade",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade\\wwwroot",
+      "Source": "Atividade",
+      "ContentRoot": "D:\\Atividade\\wwwroot\\",
+      "BasePath": "_content/Atividade",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
