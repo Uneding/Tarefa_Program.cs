@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Atividade\\Atividade.csproj": {}
+    "D:\\Tarefa_Program.cs\\Atividade.csproj": {}
   },
   "projects": {
-    "D:\\Atividade\\Atividade.csproj": {
+    "D:\\Tarefa_Program.cs\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Atividade\\Atividade.csproj",
+        "projectUniqueName": "D:\\Tarefa_Program.cs\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "D:\\Atividade\\Atividade.csproj",
+        "projectPath": "D:\\Tarefa_Program.cs\\Atividade.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Atividade\\obj\\",
+        "outputPath": "D:\\Tarefa_Program.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

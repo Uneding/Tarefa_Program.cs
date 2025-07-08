@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cs4lNCk2M/LDtX5ahwbOtbRYFlpW9loXxixHQ9zip0g=",
+  "Hash": "zNsLaP6bEvmvE0+Ua1te5mOSc3gFSgotJe/+ut0OBK4=",
   "Source": "Atividade",
   "BasePath": "_content/Atividade",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Atividade\\wwwroot",
       "Source": "Atividade",
-      "ContentRoot": "D:\\Atividade\\wwwroot\\",
+      "ContentRoot": "D:\\Tarefa_Program.cs\\wwwroot\\",
       "BasePath": "_content/Atividade",
       "Pattern": "**"
     }

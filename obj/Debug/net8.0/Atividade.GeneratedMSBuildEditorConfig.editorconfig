@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Atividade
 build_property.RootNamespace = Atividade
-build_property.ProjectDir = D:\Atividade\
+build_property.ProjectDir = D:\Tarefa_Program.cs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Atividade
+build_property.MSBuildProjectDirectory = D:\Tarefa_Program.cs
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Atividade/Views/Shared/_Layout.cshtml]
+[D:/Tarefa_Program.cs/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Tarefa_Program.cs/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Shared/_ViewImports.cshtml]
+[D:/Tarefa_Program.cs/Views/Shared/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Tarefas/Create.cshtml]
+[D:/Tarefa_Program.cs/Views/Tarefas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Tarefas/Delete.cshtml]
+[D:/Tarefa_Program.cs/Views/Tarefas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Tarefas/Edit.cshtml]
+[D:/Tarefa_Program.cs/Views/Tarefas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/Tarefas/Index.cshtml]
+[D:/Tarefa_Program.cs/Views/Tarefas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Atividade/Views/_ViewImports.cshtml]
+[D:/Tarefa_Program.cs/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
